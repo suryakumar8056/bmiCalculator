@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bmiCal/static/css/main.d68f031c.css",
+    "main.js": "/bmiCal/static/js/main.ad6a9679.js",
+    "static/js/787.7277e3b6.chunk.js": "/bmiCal/static/js/787.7277e3b6.chunk.js",
+    "static/media/helthy.jpg": "/bmiCal/static/media/helthy.0462e04ec2087e706946.jpg",
+    "static/media/over.jpg": "/bmiCal/static/media/over.eb30d05cd4f2ec2710f1.jpg",
+    "static/media/skiny.jpg": "/bmiCal/static/media/skiny.f8bcbea710469faa0b0b.jpg",
+    "index.html": "/bmiCal/index.html",
+    "main.d68f031c.css.map": "/bmiCal/static/css/main.d68f031c.css.map",
+    "main.ad6a9679.js.map": "/bmiCal/static/js/main.ad6a9679.js.map",
+    "787.7277e3b6.chunk.js.map": "/bmiCal/static/js/787.7277e3b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d68f031c.css",
+    "static/js/main.ad6a9679.js"
+  ]
+}
